@@ -1,0 +1,9 @@
+"model","bias","avg_error.1 noise","std_error.1 noise","avg_error.2 noises","std_error.2 noises","avg_error.3 noises","std_error.3 noises"
+"BWCN","biased",0,0,0,0,0,0
+"BWQN","biased",0,0,0,0,0,0
+"RWCN","biased",0,0,0,0,0,0
+"RWQN","biased",0,0,0,0,0,0
+"BWCN","unbiased",0,0,0.0741,0,0.0741,0
+"BWQN","unbiased",0,0,0.122216666666667,0.0436447420171906,0.140723333333333,0.0449931924608167
+"RWCN","unbiased",0,0,0.1111,0,0.1111,0
+"RWQN","unbiased",0,0,0.12097,0.0215920667104283,0.130833333333333,0.0187744017459822
